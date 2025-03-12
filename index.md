@@ -40,10 +40,16 @@ Lecture slides will be posted after leture.
 * [Lecture 6: (2/10) Radiometry of Images](lectures/lect6.pdf)
 * [Lecture 7: (2/12) Color Vision](lectures/lect7.pdf)
 * [Lecture 8: (2/19) Human Vision](lectures/lect8.pdf)
+* [Lecture 9: (2/24) Sequence Models](lectures/lect9.pdf)
+* [Lecture 10: (2/26) ViT and Self-Supervised Models](lectures/lect10.pdf)
+* [Lecture 11: (3/03) Diffusion Models](lectures/lect11.pdf)
+* [Lecture 12: (3/05) Diffusion Models 2: Practicalities](lectures/lect12.pdf)
+* [Lecture 13: (3/10) More Generative Models (VAEs, GANs, Evaluation Metrics)](lectures/lect13.pdf)
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
 * [HW1](psets/CS280_HW1.pdf): Due Tuesday, 02/11 at 11:59pm
+* [HW2](https://cal-cs180.github.io/fa24/hw/proj5/partb_fm.html): Due Friday, 03/15 at 11:59pm
 
 ## Additional Materials
 
