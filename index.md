@@ -45,11 +45,12 @@ Lecture slides will be posted after leture.
 * [Lecture 11: (3/03) Diffusion Models](lectures/lect11.pdf)
 * [Lecture 12: (3/05) Diffusion Models 2: Practicalities](lectures/lect12.pdf)
 * [Lecture 13: (3/10) More Generative Models (VAEs, GANs, Evaluation Metrics)](lectures/lect13.pdf)
+* [Lecture 14: (3/12) From pixels to objects](lectures/lect14.pdf)
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
 * [HW1](psets/CS280_HW1.pdf): Due Tuesday, 02/11 at 11:59pm
-* [HW2](https://cal-cs180.github.io/fa24/hw/proj5/partb_fm.html): Due Saturday, 03/15 at 11:59pm
+* [HW2](https://cal-cs180.github.io/fa24/hw/proj5/partb_fm.html): Due Saturday 03/15 at 11:59pm
 
 ## Additional Materials
 
