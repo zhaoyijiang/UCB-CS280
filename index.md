@@ -46,6 +46,7 @@ Lecture slides will be posted after leture.
 * [Lecture 12: (3/05) Diffusion Models 2: Practicalities](lectures/lect12.pdf)
 * [Lecture 13: (3/10) More Generative Models (VAEs, GANs, Evaluation Metrics)](lectures/lect13.pdf)
 * [Lecture 14: (3/12) From pixels to objects](lectures/lect14.pdf)
+* [Lecture 15: (3/17) Early History of ANNs; Object Detection; Face Recognition](lectures/lect15.pdf)
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
