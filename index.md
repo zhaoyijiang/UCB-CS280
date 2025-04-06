@@ -49,6 +49,7 @@ Lecture slides will be posted after leture.
 * [Lecture 15: (3/17) Early History of ANNs; Object Detection; Face Recognition](lectures/lect15.pdf)
 * (3/19) Midterm Exam
 * [Lecture 16: (3/31) Perceiving Humans](lectures/lect16.pdf)
+* [Lecture 17: (4/2) Video Action Recognition](lectures/lect17.pdf)
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
