@@ -51,6 +51,7 @@ Lecture slides will be posted after leture.
 * [Lecture 16: (3/31) Perceiving Humans](lectures/lect16.pdf)
 * [Lecture 17: (4/2) Video Action Recognition](lectures/lect17.pdf)
 * [Lecture 18: (4/7) Learning Correspondences](lectures/lect18.pdf)
+* [Lecture 19: (4/9) Vision for Locomotion and Navigation](lectures/lect19.pdf)
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
