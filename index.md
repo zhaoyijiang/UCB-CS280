@@ -53,6 +53,8 @@ Lecture slides will be posted after leture.
 * [Lecture 18: (4/7) Learning Correspondences](lectures/lect18.pdf)
 * [Lecture 19: (4/9) Vision for Locomotion and Navigation](lectures/lect19.pdf)
 * [Lecture 20: (4/14) Vision-Language Models](lectures/lect20.pdf)
+* [Lecture 21: (4/16) Predicting 2.5D / 3D](lectures/lect21.pdf)
+* [Lecture 22: (4/21) Vision for Manipulation](lectures/lect22.pdf)
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
