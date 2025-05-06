@@ -63,6 +63,7 @@ Lecture slides will be posted after leture.
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
 * [HW1](psets/CS280_HW1.pdf): Due Tuesday, 02/11 at 11:59pm
 * [HW2](https://cal-cs180.github.io/fa24/hw/proj5/partb_fm.html): Due Saturday 03/15 at 11:59pm
+* [HW3](https://drive.google.com/file/d/1s-ZJoAUpp_OHYkXBpv9qlXG8iyqvoghC/view): Due Tuesday, 04/15 at 11:59pm
 
 ## Additional Materials
 
