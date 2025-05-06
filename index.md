@@ -20,9 +20,9 @@ GSIs: [Jathushan Rajasegaran](https://brjathu.github.io/), [Rahul Ravishankar](h
 **Office hours - Location: TBD** 
 - Jitendra Malik: After lecture
 - Angjoo Kanazawa: After lecture
-- Jathushan: TBD
-- Rahul: TBD
-- Ryan: TBD
+- Jathushan: Friday 1-2pm BWW
+- Rahul: Wednesday 1-2pm BWW
+- Ryan: Monday 1-2pm BWW
 
 **Policy:** Please see the [syllabus (not yet available)]() for administrative details. To keep discussions organized, please do not email the instructor or GSIs directly. We are using Ed Discussion for communication (private or public) as much as possible.
 
