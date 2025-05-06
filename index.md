@@ -55,6 +55,9 @@ Lecture slides will be posted after leture.
 * [Lecture 20: (4/14) Vision-Language Models](lectures/lect20.pdf)
 * [Lecture 21: (4/16) Predicting 2.5D / 3D](lectures/lect21.pdf)
 * [Lecture 22: (4/21) Vision for Manipulation](lectures/lect22.pdf)
+* [Lecture 23: (4/23) Novel View Synthesis part 1](https://drive.google.com/file/d/1XTnYMAuoaZABwwKuR5nbfaCHxn6Ph2TF/view?usp=sharing)
+* [Lecture 24: (4/28) Novel View Synthesis part 2](https://drive.google.com/file/d/1eEuIbcziU-pLl5hoqlex67XOqw8EHMcA/view?usp=sharing)
+* Lecture 25: (4/30) Professor Q&A
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
