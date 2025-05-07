@@ -30,8 +30,6 @@ GSIs: [Jathushan Rajasegaran](https://brjathu.github.io/), [Rahul Ravishankar](h
 
 ## Lectures
 
-Lecture slides will be posted after leture.
-
 * [Lecture 1: (1/22) Course Intro. and Fundamentals of Image Formation](lectures/lect1.pdf)
 * [Lecture 2: (1/27) Camera Calibration](lectures/lect2.pdf)
 * [Lecture 3: (1/29) Calibration, Binocular Perspective](lectures/lect3.pdf)
@@ -42,7 +40,7 @@ Lecture slides will be posted after leture.
 * [Lecture 8: (2/19) Human Vision](lectures/lect8.pdf)
 * [Lecture 9: (2/24) Sequence Models](lectures/lect9.pdf)
 * [Lecture 10: (2/26) ViT and Self-Supervised Models](lectures/lect10.pdf)
-* [Lecture 11: (3/03) Diffusion Models](lectures/lect11.pdf)
+* [Lecture 11: (3/03) Diffusion Models: Flow Matching Perspective](lectures/lect11.pdf)
 * [Lecture 12: (3/05) Diffusion Models 2: Practicalities](lectures/lect12.pdf)
 * [Lecture 13: (3/10) More Generative Models (VAEs, GANs, Evaluation Metrics)](lectures/lect13.pdf)
 * [Lecture 14: (3/12) From pixels to objects](lectures/lect14.pdf)
