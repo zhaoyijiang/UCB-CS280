@@ -53,17 +53,17 @@ GSIs: [Jathushan Rajasegaran](https://brjathu.github.io/), [Rahul Ravishankar](h
 * [Lecture 20: (4/14) Vision-Language Models](lectures/lect20.pdf)
 * [Lecture 21: (4/16) Predicting 2.5D / 3D](lectures/lect21.pdf)
 * [Lecture 22: (4/21) Vision for Manipulation](lectures/lect22.pdf)
-* [Lecture 23: (4/23) Novel View Synthesis part 1](https://drive.google.com/file/d/1XTnYMAuoaZABwwKuR5nbfaCHxn6Ph2TF/view?usp=sharing)
-* [Lecture 24: (4/28) Novel View Synthesis part 2](https://drive.google.com/file/d/1eEuIbcziU-pLl5hoqlex67XOqw8EHMcA/view?usp=sharing)
+* [Lecture 23: (4/23) Novel View Synthesis part 1](lectures/lec23.md)
+* [Lecture 24: (4/28) Novel View Synthesis part 2](lectures/lec24.md)
 * Lecture 25: (4/30) Professor Q&A
 
 ## Assignments
 * [HW0](psets/CS280_HW0.pdf): Due Monday, 01/27 at 11:59pm
 * [HW1](psets/CS280_HW1.pdf): Due Tuesday, 02/11 at 11:59pm
-* [HW2](https://cal-cs180.github.io/fa24/hw/proj5/partb_fm.html): Due Saturday 03/15 at 11:59pm
-* [HW3](https://drive.google.com/file/d/1s-ZJoAUpp_OHYkXBpv9qlXG8iyqvoghC/view): Due Tuesday, 04/15 at 11:59pm
+* [HW2](https://cal-cs180.github.io/fa24/hw/proj5/partb_fm.html): Due Saturday 03/15 at 11:59pm (这个assignment是直接用的cs180/280A的project 5的part B，所以如果这里的链接失效了的话，可以直接去看我的关于cs180/280A的project 5的part B的笔记记录)
+* [HW3](psets/hw3.zip): Due Tuesday, 04/15 at 11:59pm
 
 ## Additional Materials
 
-* [Spring 2024 Course Website](https://cs280-berkeley.github.io/sp24)
-* [Spring 2023 Course Website](https://cs280-berkeley.github.io/sp23)
+* [Spring 2024](https://app.gitbook.com/o/SjdYKHuQY1ZQ99As7wvi/s/V23kNlfUhuxj16gGF9Lb/computer/computer-vision/ucb-cs-c280-computer-vision#id-2024-spring)
+* [Spring 2023](https://app.gitbook.com/o/SjdYKHuQY1ZQ99As7wvi/s/V23kNlfUhuxj16gGF9Lb/computer/computer-vision/ucb-cs-c280-computer-vision#id-2023-spring)
